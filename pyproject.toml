@@ -1,0 +1,14 @@
+[project]
+name = "hp-manager"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "flask>=3.1.2",
+    "flask-cors>=6.0.2",
+    "flask-sqlalchemy>=3.1.1",
+    "future>=1.0.0",
+    "requests>=2.32.5",
+]
